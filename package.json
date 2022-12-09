@@ -1,0 +1,16 @@
+{
+  "name": "@backlight-dev/helpful-inspector-pt6v3.figma-tokens-lbfcn8eo",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve wqdfiHNGJcwISHV9NqKh --open"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.9.4",
+    "lit": "^2.2.2"
+  },
+  "dependencies": {}
+}
